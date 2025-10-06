@@ -139,11 +139,4 @@ Troubleshooting
 - If precision or recall is 0, reduce threshold (e.g., `--threshold 0.3`).
 - If training time is long, reduce samples (`--n-samples 1000`).
 
-----------------------------------------------------------------------
-References (APA style)
-----------------------------------------------------------------------
-- Pedregosa, F., et al. (2011). *Scikit-learn: Machine learning in Python.* Journal of Machine Learning Research, 12, 2825–2830.
-- scikit-learn developers. (2025). *LogisticRegression.* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-- IBM. (2025). *What is Logistic Regression?* https://www.ibm.com/topics/logistic-regression
-- Kaggle Datasets. (2025). *Credit Approval Data.* https://www.kaggle.com/datasets/
-- UCI Machine Learning Repository. (2025). *Credit Approval Dataset.* https://archive.ics.uci.edu/
+
